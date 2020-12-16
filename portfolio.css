@@ -1,14 +1,13 @@
-.contener{
-    text-align: center;
-    color: red;
+h1{
+    font-family: 'Poppins', sans-serif;
 }
-#thard{
-    text-align: start;
-}
-#furth{
+#sixth{
     text-align: end;
 }
-img{
-    text-align: left;
-    font-size: 30px;
+#Hamza{
+    text-align:right;
 }
+
+
+
+
