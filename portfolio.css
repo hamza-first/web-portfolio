@@ -1,6 +1,8 @@
-h1{
+body{
     font-family: 'Poppins', sans-serif;
-    color: pink;
+}
+h1{
+    color: rgb(51, 8, 15);
 }
 #sixth{
     text-align: end;
@@ -14,9 +16,20 @@ h1{
     text-align: center;
 }
 img{
-    height: 40%;
+    height: 200%;
     width: 200px;
-    margin: auto-left;
+    margin-left: 950px;
 }
-
+#first{
+    width: 600px;
+}
+#second{
+    width: 45%;
+}
+.red{
+    color: rgb(179, 209, 45);
+}
+.first{
+    text-align: end;
+}
 
