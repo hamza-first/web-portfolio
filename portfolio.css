@@ -65,3 +65,6 @@ section{
 .ammar{
     text-align:center;
 }
+h2::after{
+    content: "👍";
+}
