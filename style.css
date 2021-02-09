@@ -22,11 +22,12 @@ h2{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, lightsalmon , tomato);
+    background-image: linear-gradient(45deg, green ,goldenrod);
     border-radius: 5px;
     padding: 10px 20px;
     color: white;
@@ -35,14 +36,11 @@ section{
 .medimem{
     background-image: url(images2/biography-bg.png);
 }
-.half-width{
-    width: px;
-    float: left;
+.half-img{
+    width: 50px;
+    float: right;
+    height: 10px;
 }
-
-
-
-
 
 
 
